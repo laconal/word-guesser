@@ -1,0 +1,38 @@
+{
+  "name": "allias",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build",
+    "tauri": "tauri",
+    "android:init": "bash scripts/android.sh init",
+    "android:dev": "bash scripts/android.sh dev",
+    "android:apk": "bash scripts/android.sh build --apk",
+    "android:apk:arm64": "bash scripts/android.sh build --apk --target aarch64",
+    "desktop:dev": "tauri dev",
+    "build:deb": "tauri build --bundles deb",
+    "build:windows": "tauri build --bundles msi,nsis",
+    "build:windows:msi": "tauri build --bundles msi",
+    "build:windows:exe": "tauri build --bundles nsis",
+    "build:windows:cross": "tauri build --runner cargo-xwin --target x86_64-pc-windows-msvc --bundles nsis"
+  },
+  "dependencies": {
+    "@mantine/core": "^9.8.2",
+    "@mantine/hooks": "^9.8.2",
+    "@tabler/icons-react": "^3.53.0",
+    "@tauri-apps/api": "^2.12.5",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "react-router-dom": "^7.18.7"
+  },
+  "devDependencies": {
+    "@tauri-apps/cli": "^2.12.6",
+    "@types/react": "^19.3.3",
+    "@types/react-dom": "^19.3.0",
+    "@vitejs/plugin-react": "^6.3.0",
+    "typescript": "~5.9",
+    "vite": "^8.3.8"
+  }
+}

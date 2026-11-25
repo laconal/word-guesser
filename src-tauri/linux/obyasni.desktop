@@ -1,0 +1,14 @@
+[Desktop Entry]
+Type=Application
+Name=Explain!
+Name[ru]=Объясни!
+GenericName=Word guessing game
+GenericName[ru]=Игра в слова
+Comment=Explain words without saying them
+Comment[ru]=Объясняй слова — не называя их
+Exec={{exec}}
+StartupWMClass={{exec}}
+Icon={{icon}}
+Categories={{categories}}
+Keywords=word;game;party;alias;слова;игра;
+Terminal=false

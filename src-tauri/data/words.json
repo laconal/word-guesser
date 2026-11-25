@@ -1,0 +1,227 @@
+[
+  {
+    "slug": "literature", "ru": "Литература", "en": "Literature", "icon": "📚",
+    "words": {
+      "ru": [
+        "книга, писатель, поэт, сказка, стихотворение, роман, библиотека, страница, обложка, герой, автор, читатель, рассказ, басня, азбука, загадка",
+        "сюжет, персонаж, глава, эпилог, пролог, рифма, поэма, повесть, трагедия, комедия, драма, детектив, фантастика, издательство, рецензия, цитата",
+        "метафора, аллегория, гипербола, эпитет, сонет, антиутопия, кульминация, оксюморон, псевдоним, ямб, катарсис, сатира, лирика, монолог, эпос, ирония"
+      ],
+      "en": [
+        "book, writer, poet, fairy tale, poem, novel, library, page, cover, hero, author, reader, story, fable, alphabet, riddle",
+        "plot, character, chapter, epilogue, prologue, rhyme, tragedy, comedy, drama, detective story, science fiction, publisher, review, quote, biography, bestseller",
+        "metaphor, allegory, hyperbole, epithet, sonnet, dystopia, climax, oxymoron, pseudonym, iambic pentameter, catharsis, satire, soliloquy, epic, foreshadowing, irony"
+      ]
+    }
+  },
+  {
+    "slug": "space", "ru": "Космос", "en": "Space", "icon": "🚀",
+    "words": {
+      "ru": [
+        "звезда, луна, солнце, планета, ракета, космонавт, небо, комета, телескоп, Земля, Марс, спутник, метеор, галактика, вселенная, астероид",
+        "орбита, невесомость, скафандр, созвездие, Млечный Путь, космодром, луноход, метеорит, затмение, гравитация, обсерватория, Сатурн, Юпитер, МКС, кратер, туманность",
+        "чёрная дыра, сверхновая, квазар, пульсар, экзопланета, горизонт событий, тёмная материя, гравитационная волна, световой год, парсек, Большой взрыв, красный гигант, нейтронная звезда, апогей, перигей, магнитосфера"
+      ],
+      "en": [
+        "star, moon, sun, planet, rocket, astronaut, sky, comet, telescope, Earth, Mars, satellite, meteor, galaxy, universe, asteroid",
+        "orbit, weightlessness, spacesuit, constellation, Milky Way, launch pad, rover, meteorite, eclipse, gravity, observatory, Saturn, Jupiter, space station, crater, nebula",
+        "black hole, supernova, quasar, pulsar, exoplanet, event horizon, dark matter, gravitational wave, light-year, parsec, Big Bang, red giant, neutron star, apogee, perigee, magnetosphere"
+      ]
+    }
+  },
+  {
+    "slug": "math", "ru": "Математика", "en": "Mathematics", "icon": "📐",
+    "words": {
+      "ru": [
+        "число, плюс, минус, ноль, круг, квадрат, треугольник, линейка, сумма, цифра, счёт, половина, сантиметр, задача, ответ, таблица умножения",
+        "дробь, процент, уравнение, угол, периметр, площадь, диаметр, радиус, параллелограмм, пирамида, график, среднее арифметическое, делитель, степень, корень, циркуль",
+        "интеграл, производная, логарифм, матрица, вектор, синус, косинус, теорема, аксиома, бесконечность, предел, факториал, гипотенуза, простое число, функция, вероятность"
+      ],
+      "en": [
+        "number, plus, minus, zero, circle, square, triangle, ruler, sum, digit, counting, half, centimeter, problem, answer, times table",
+        "fraction, percent, equation, angle, perimeter, area, diameter, radius, parallelogram, pyramid, graph, average, divisor, power, square root, compass",
+        "integral, derivative, logarithm, matrix, vector, sine, cosine, theorem, axiom, infinity, limit, factorial, hypotenuse, prime number, function, probability"
+      ]
+    }
+  },
+  {
+    "slug": "nature", "ru": "Природа", "en": "Nature", "icon": "🌿",
+    "words": {
+      "ru": [
+        "дерево, цветок, река, море, гора, лес, дождь, снег, облако, радуга, трава, озеро, ветер, листок, камень, остров",
+        "водопад, вулкан, пустыня, болото, ураган, гроза, туман, роса, ущелье, ледник, оазис, джунгли, тундра, пещера, родник, прилив",
+        "экосистема, фотосинтез, биосфера, эрозия, муссон, гейзер, каньон, фьорд, атолл, торнадо, сталактит, вечная мерзлота, северное сияние, цунами, пищевая цепь, круговорот воды"
+      ],
+      "en": [
+        "tree, flower, river, sea, mountain, forest, rain, snow, cloud, rainbow, grass, lake, wind, leaf, stone, island",
+        "waterfall, volcano, desert, swamp, hurricane, thunderstorm, fog, dew, gorge, glacier, oasis, jungle, tundra, cave, spring, tide",
+        "ecosystem, photosynthesis, biosphere, erosion, monsoon, geyser, canyon, fjord, atoll, tornado, stalactite, permafrost, aurora, tsunami, food chain, water cycle"
+      ]
+    }
+  },
+  {
+    "slug": "philosophy", "ru": "Философия", "en": "Philosophy", "icon": "🤔",
+    "words": {
+      "ru": [
+        "мысль, правда, ложь, добро, зло, счастье, свобода, дружба, любовь, мудрость, вопрос, смысл жизни, время, душа, мечта, совесть",
+        "философ, логика, этика, истина, разум, мораль, сознание, судьба, бытие, спор, Сократ, Платон, Аристотель, справедливость, вера, сомнение",
+        "экзистенциализм, нигилизм, стоицизм, эпистемология, онтология, дуализм, детерминизм, утилитаризм, солипсизм, диалектика, парадокс, категорический императив, метафизика, агностицизм, эмпиризм, релятивизм"
+      ],
+      "en": [
+        "thought, truth, lie, good, evil, happiness, freedom, friendship, love, wisdom, question, meaning of life, time, soul, dream, conscience",
+        "philosopher, logic, ethics, reason, morality, consciousness, fate, existence, argument, Socrates, Plato, Aristotle, justice, faith, doubt, virtue",
+        "existentialism, nihilism, stoicism, epistemology, ontology, dualism, determinism, utilitarianism, solipsism, dialectic, paradox, categorical imperative, metaphysics, agnosticism, empiricism, relativism"
+      ]
+    }
+  },
+  {
+    "slug": "medicine", "ru": "Медицина", "en": "Medicine", "icon": "🩺",
+    "words": {
+      "ru": [
+        "врач, больница, таблетка, укол, градусник, температура, кашель, насморк, аптека, зуб, бинт, медсестра, сердце, кровь, витамин, пластырь",
+        "хирург, рентген, прививка, аллергия, вирус, бактерия, давление, пульс, скорая помощь, рецепт, стоматолог, перелом, гипс, антибиотик, иммунитет, шприц",
+        "анестезия, диагноз, томография, вакцина, пандемия, инсульт, инфаркт, метаболизм, гормон, плацебо, реанимация, эпидемия, хромосома, ДНК, дефибриллятор, трансплантация"
+      ],
+      "en": [
+        "doctor, hospital, pill, injection, thermometer, fever, cough, runny nose, pharmacy, tooth, bandage, nurse, heart, blood, vitamin, band-aid",
+        "surgeon, X-ray, vaccination, allergy, virus, bacteria, blood pressure, pulse, ambulance, prescription, dentist, fracture, cast, antibiotic, immunity, syringe",
+        "anesthesia, diagnosis, MRI, vaccine, pandemic, stroke, heart attack, metabolism, hormone, placebo, intensive care, epidemic, chromosome, DNA, defibrillator, transplant"
+      ]
+    }
+  },
+  {
+    "slug": "technology", "ru": "Технологии", "en": "Technology", "icon": "💻",
+    "words": {
+      "ru": [
+        "компьютер, телефон, интернет, клавиатура, мышка, экран, наушники, телевизор, планшет, зарядка, пароль, игра, фотография, камера, сайт, робот",
+        "ноутбук, процессор, программист, приложение, браузер, флешка, принтер, Wi-Fi, смартфон, аккумулятор, социальная сеть, электронная почта, сервер, обновление, видеозвонок, джойстик",
+        "искусственный интеллект, алгоритм, нейросеть, блокчейн, криптовалюта, облачное хранилище, база данных, шифрование, виртуальная реальность, квантовый компьютер, операционная система, микросхема, хакер, кибербезопасность, машинное обучение, интернет вещей"
+      ],
+      "en": [
+        "computer, phone, internet, keyboard, mouse, screen, headphones, TV, tablet, charger, password, game, photo, camera, website, robot",
+        "laptop, processor, programmer, app, browser, flash drive, printer, Wi-Fi, smartphone, battery, social network, email, server, update, video call, joystick",
+        "artificial intelligence, algorithm, neural network, blockchain, cryptocurrency, cloud storage, database, encryption, virtual reality, quantum computer, operating system, microchip, hacker, cybersecurity, machine learning, Internet of Things"
+      ]
+    }
+  },
+  {
+    "slug": "history", "ru": "История", "en": "History", "icon": "🏛️",
+    "words": {
+      "ru": [
+        "король, царь, замок, рыцарь, война, меч, корона, пират, крепость, древность, музей, флаг, армия, пирамиды, викинг, клад",
+        "империя, революция, династия, летопись, археолог, крестовый поход, гладиатор, фараон, феодал, монархия, республика, колония, мумия, перемирие, Средневековье, восстание",
+        "Ренессанс, Реформация, инквизиция, абсолютизм, крепостное право, холодная война, индустриализация, вассал, Великая хартия вольностей, Римская империя, эпоха Просвещения, конкистадор, каменный век, Великий шёлковый путь, железный занавес, сёгун"
+      ],
+      "en": [
+        "king, queen, castle, knight, war, sword, crown, pirate, fortress, ancient times, museum, flag, army, pyramids, Viking, treasure",
+        "empire, revolution, dynasty, chronicle, archaeologist, crusade, gladiator, pharaoh, feudal lord, monarchy, republic, colony, mummy, truce, Middle Ages, uprising",
+        "Renaissance, Reformation, Inquisition, absolutism, serfdom, Cold War, industrialization, vassal, Magna Carta, Roman Empire, Enlightenment, conquistador, Stone Age, Silk Road, Iron Curtain, shogun"
+      ]
+    }
+  },
+  {
+    "slug": "geography", "ru": "География", "en": "Geography", "icon": "🌍",
+    "words": {
+      "ru": [
+        "карта, глобус, страна, город, океан, столица, компас, север, юг, граница, материк, Африка, Россия, Москва, Париж, деревня",
+        "экватор, полюс, меридиан, параллель, архипелаг, полуостров, пролив, континент, мегаполис, часовой пояс, широта, долгота, Амазонка, Сахара, Эверест, Антарктида",
+        "тектоника плит, рельеф, дельта, плато, климатический пояс, сейсмология, демография, урбанизация, Марианская впадина, Гималаи, Гольфстрим, перешеек, эстуарий, анклав, тропик, нулевой меридиан"
+      ],
+      "en": [
+        "map, globe, country, city, ocean, capital, compass, north, south, border, continent, Africa, London, Paris, village, beach",
+        "equator, pole, meridian, latitude, longitude, archipelago, peninsula, strait, metropolis, time zone, Amazon, Sahara, Everest, Antarctica, valley, coastline",
+        "plate tectonics, terrain, delta, plateau, climate zone, seismology, demographics, urbanization, Mariana Trench, Himalayas, Gulf Stream, isthmus, estuary, enclave, tropic, prime meridian"
+      ]
+    }
+  },
+  {
+    "slug": "animals", "ru": "Животные", "en": "Animals", "icon": "🐾",
+    "words": {
+      "ru": [
+        "кошка, собака, корова, лошадь, слон, жираф, лев, тигр, медведь, заяц, волк, лиса, обезьяна, рыба, птица, курица",
+        "дельфин, кенгуру, пингвин, черепаха, крокодил, верблюд, сова, ёж, белка, бобр, павлин, хамелеон, осьминог, летучая мышь, муравей, акула",
+        "утконос, ленивец, муравьед, броненосец, лемур, коала, морской конёк, богомол, медуза, тапир, росомаха, нарвал, капибара, игуана, саламандра, мимикрия"
+      ],
+      "en": [
+        "cat, dog, cow, horse, elephant, giraffe, lion, tiger, bear, rabbit, wolf, fox, monkey, fish, bird, chicken",
+        "dolphin, kangaroo, penguin, turtle, crocodile, camel, owl, hedgehog, squirrel, beaver, peacock, chameleon, octopus, bat, ant, shark",
+        "platypus, sloth, anteater, armadillo, lemur, koala, seahorse, praying mantis, jellyfish, tapir, wolverine, narwhal, capybara, iguana, salamander, camouflage"
+      ]
+    }
+  },
+  {
+    "slug": "food", "ru": "Еда", "en": "Food", "icon": "🍕",
+    "words": {
+      "ru": [
+        "хлеб, молоко, яблоко, банан, сыр, суп, каша, пицца, мороженое, торт, конфета, чай, кофе, яйцо, картошка, сок",
+        "блины, пельмени, борщ, салат, котлета, омлет, бутерброд, шашлык, макароны, вареники, йогурт, шоколад, мёд, лимонад, попкорн, суши",
+        "ризотто, фондю, тирамису, карпаччо, круассан, гаспачо, хумус, фуа-гра, трюфель, авокадо, кускус, паэлья, рататуй, фалафель, бриошь, крем-брюле"
+      ],
+      "en": [
+        "bread, milk, apple, banana, cheese, soup, porridge, pizza, ice cream, cake, candy, tea, coffee, egg, potato, juice",
+        "pancakes, dumplings, salad, burger, omelette, sandwich, barbecue, pasta, yogurt, chocolate, honey, lemonade, popcorn, sushi, hot dog, French fries",
+        "risotto, fondue, tiramisu, carpaccio, croissant, gazpacho, hummus, foie gras, truffle, avocado, couscous, paella, ratatouille, falafel, brioche, crème brûlée"
+      ]
+    }
+  },
+  {
+    "slug": "sport", "ru": "Спорт", "en": "Sport", "icon": "⚽",
+    "words": {
+      "ru": [
+        "мяч, футбол, бег, плавание, лыжи, коньки, велосипед, ворота, победа, гол, команда, тренер, медаль, теннис, баскетбол, бокс",
+        "стадион, судья, чемпионат, Олимпиада, хоккей, волейбол, гимнастика, марафон, финиш, рекорд, болельщик, пенальти, штанга, шахматы, сноуборд, каратэ",
+        "биатлон, пятиборье, офсайд, кёрлинг, фехтование, триатлон, допинг, дриблинг, нокаут, сальто, гандикап, тай-брейк, слалом, регата, дзюдо, паркур"
+      ],
+      "en": [
+        "ball, football, running, swimming, skiing, skates, bicycle, goal, victory, team, coach, medal, tennis, basketball, boxing, race",
+        "stadium, referee, championship, Olympics, hockey, volleyball, gymnastics, marathon, finish line, record, fan, penalty, barbell, chess, snowboard, karate",
+        "biathlon, pentathlon, offside, curling, fencing, triathlon, doping, dribbling, knockout, somersault, handicap, tie-break, slalom, regatta, judo, parkour"
+      ]
+    }
+  },
+  {
+    "slug": "art", "ru": "Искусство", "en": "Art", "icon": "🎨",
+    "words": {
+      "ru": [
+        "картина, художник, кисть, краски, песня, музыка, танец, театр, кино, гитара, пианино, барабан, рисунок, певец, клоун, цирк",
+        "скульптура, портрет, пейзаж, натюрморт, оркестр, дирижёр, балет, опера, мольберт, галерея, актёр, режиссёр, концерт, мелодия, скрипка, мультфильм",
+        "импрессионизм, кубизм, сюрреализм, авангард, барокко, мозаика, фреска, акварель, симфония, либретто, аккорд, партитура, инсталляция, перформанс, гравюра, абстракционизм"
+      ],
+      "en": [
+        "painting, artist, brush, paints, song, music, dance, theater, cinema, guitar, piano, drum, drawing, singer, clown, circus",
+        "sculpture, portrait, landscape, still life, orchestra, conductor, ballet, opera, easel, gallery, actor, film director, concert, melody, violin, cartoon",
+        "impressionism, cubism, surrealism, avant-garde, baroque, mosaic, fresco, watercolor, symphony, libretto, chord, musical score, installation, performance art, engraving, abstract art"
+      ]
+    }
+  },
+  {
+    "slug": "home", "ru": "Дом и быт", "en": "Home", "icon": "🏠",
+    "words": {
+      "ru": [
+        "стол, стул, кровать, окно, дверь, лампа, ложка, вилка, тарелка, чашка, подушка, одеяло, шкаф, холодильник, зеркало, ключ",
+        "пылесос, микроволновка, утюг, сковорода, кастрюля, балкон, диван, ковёр, полотенце, штора, будильник, вешалка, раковина, люстра, комод, тапочки",
+        "кондиционер, посудомоечная машина, электрощиток, батарея отопления, антресоль, ремонт, сантехник, ипотека, коммунальные услуги, сигнализация, жалюзи, мансарда, подоконник, термостат, вентиляция, домофон"
+      ],
+      "en": [
+        "table, chair, bed, window, door, lamp, spoon, fork, plate, cup, pillow, blanket, wardrobe, fridge, mirror, key",
+        "vacuum cleaner, microwave, iron, frying pan, saucepan, balcony, sofa, carpet, towel, curtain, alarm clock, hanger, sink, chandelier, dresser, slippers",
+        "air conditioner, dishwasher, fuse box, radiator, attic, renovation, plumber, mortgage, utility bills, burglar alarm, blinds, loft, windowsill, thermostat, ventilation, intercom"
+      ]
+    }
+  },
+  {
+    "slug": "professions", "ru": "Профессии", "en": "Professions", "icon": "👷",
+    "words": {
+      "ru": [
+        "учитель, повар, водитель, полицейский, пожарный, продавец, строитель, пилот, фермер, почтальон, парикмахер, моряк, официант, кассир, дворник, библиотекарь",
+        "архитектор, юрист, бухгалтер, журналист, ветеринар, инженер, механик, электрик, фотограф, дизайнер, психолог, переводчик, экскурсовод, стюардесса, садовник, ювелир",
+        "нотариус, аудитор, сомелье, логист, маркетолог, таксидермист, реставратор, геодезист, дипломат, брокер, кинолог, аниматор, крупье, каскадёр, сценарист, звукорежиссёр"
+      ],
+      "en": [
+        "teacher, cook, driver, police officer, firefighter, shop assistant, builder, pilot, farmer, postman, hairdresser, sailor, waiter, cashier, janitor, librarian",
+        "architect, lawyer, accountant, journalist, veterinarian, engineer, mechanic, electrician, photographer, designer, psychologist, translator, tour guide, flight attendant, gardener, jeweler",
+        "notary, auditor, sommelier, logistician, marketer, taxidermist, restorer, surveyor, diplomat, stockbroker, dog handler, animator, croupier, stuntman, screenwriter, sound engineer"
+      ]
+    }
+  }
+]
